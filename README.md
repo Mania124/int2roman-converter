@@ -7,7 +7,7 @@ The program prints out roman representation of an integer equivalent upto a limi
 User can clone the repo or copy code to an editor
 Go programming language to compile(version 1.22.1)
 * if version is different just delete the 'go mod' file and reinitialize the project in your prefered directory i.e
-    * $ go mod init <directory-name>
+    * $ go mod init <\directory-name\>
 ## Usage
 Run the program form terminal
 * $ go run . <int-input>
